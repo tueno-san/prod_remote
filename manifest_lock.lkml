@@ -1,4 +1,4 @@
 remote_dependency: dev_thecoo {
   url: "https://github.com/tueno-san/dev_thecoo"
-  ref: "143c95983486dd0c616cc4d9b032daa05a1372aa"
+  ref: "a0cd6fac1a169f9642bb85eef9f6070de0aa2ad8"
 }
