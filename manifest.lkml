@@ -7,6 +7,7 @@ remote_dependency: dev_thecoo {
     value: "prod"
   }
 
+
 }
 # constant: view_name {
 #   value: "prod"
