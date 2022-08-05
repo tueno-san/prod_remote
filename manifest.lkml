@@ -6,8 +6,6 @@ remote_dependency: dev_thecoo {
   override_constant: view_name {
     value: "prod"
   }
-
-
 }
 # constant: view_name {
 #   value: "prod"
