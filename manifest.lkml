@@ -7,9 +7,9 @@ remote_dependency: dev_thecoo {
     value: "test_prod"
   }
 }
-# constant: view_name {
-#   value: "prod"
-# }
+constant: model_name {
+  value: "prod_project_import"
+}
 
 
 # # Use local_dependency: To enable referencing of another project
