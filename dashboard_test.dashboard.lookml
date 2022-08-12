@@ -1,11 +1,11 @@
-- dashboard: dependency_test
-  title: dependency_test
+- dashboard: dependency_test_dashboard
+  title: dependency_test_dashboard
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:
   - title: 新しいTile
     name: 新しいTile
-    model: thecoo_dev
+    model: prod_project_mport
     explore: events
     type: looker_grid
     fields: [events.city, events.latitude, events.longitude]
