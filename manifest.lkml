@@ -6,10 +6,16 @@ remote_dependency: dev_thecoo {
   override_constant: view_name {
     value: "test_prod"
   }
+  override_constant: model_name {
+    value: "prod_project_import"
+  }
+  override_constant: connection_name  {
+    value: "looker_demo_db"
+  }
 }
-constant: model_name {
-  value: "prod_project_import"
-}
+# constant: model_name {
+#   value: "prod_project_import"
+# }
 
 constant: connection_name {
   value: "looker_demo_db"
