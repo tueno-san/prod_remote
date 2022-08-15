@@ -11,6 +11,10 @@ constant: model_name {
   value: "prod_project_import"
 }
 
+constant: connection_name {
+  value: "looker_demo_db"
+}
+
 
 # # Use local_dependency: To enable referencing of another project
 # # on this instance with include: statements
